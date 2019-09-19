@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://xaeluwejah.fahimsachedina.com/sitemap.xml
